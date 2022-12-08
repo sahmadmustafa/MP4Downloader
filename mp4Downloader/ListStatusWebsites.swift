@@ -115,7 +115,9 @@ extension ListStatusWebsites: UICollectionViewDelegate {
 
             }
                 return sectionHeader
-        } else { //No footer in this case but can add option for that
+        } else
+        {
+            //No footer in this case but can add option for that
              return UICollectionReusableView()
         }
     }
