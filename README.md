@@ -1,3 +1,10 @@
+[![Swift Version][swift-image]][swift-url]
+[![Build Status][travis-image]][travis-url]
+[![License][license-image]][license-url]
+[![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
+[![CocoaPods Compatible](https://img.shields.io/cocoapods/v/EZSwiftExtensions.svg)](https://img.shields.io/cocoapods/v/LFAlertController.svg)  
+[![Platform](https://img.shields.io/cocoapods/p/LFAlertController.svg?style=flat)](http://cocoapods.org/pods/LFAlertController)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 # MP4Downloader
 ![Simulator Screen Shot - iPhone 14 Plus - 2022-11-29 at 03 21 02](https://user-images.githubusercontent.com/25474407/205992015-7cae4971-a62b-4d3a-998d-3b2f05a5a227.jpg)
 ![Simulator Screen Shot - iPhone 14 Plus - 2022-12-06 at 23 16 54](https://user-images.githubusercontent.com/25474407/205992032-e563972c-5e14-4d04-995b-89525ea5ed7e.jpg)
