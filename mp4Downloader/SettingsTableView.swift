@@ -31,19 +31,7 @@ class SettingsTableView: UITableViewController{
     
     
     }
-    //ScannerViewController
-//    @IBAction func didTapConnectToWallet(_ sender: Any)
-//    {
-//
-//        if #available(iOS 13.0, *) {
-//            let vc = self.storyboard?.instantiateViewController(identifier: "MainViewController") as! MainViewController
-//            self.navigationController?.pushViewController(vc, animated: true)
-//
-//        } else {
-//            // Fallback on earlier versions
-//        }
-//
-//    }
+
 //    @IBAction func didTapNotification(_ sender: Any)
 //    {
 //

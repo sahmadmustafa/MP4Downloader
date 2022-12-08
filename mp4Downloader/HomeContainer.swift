@@ -33,7 +33,6 @@ class HomeContainer: UITableViewController {
         
     let vc = self.storyboard?.instantiateViewController(identifier: "WhatsappStatusVC") as! WhatsappStatusVC
     self.navigationController?.pushViewController(vc, animated: true)
-//    override func vie
         
     }
 
