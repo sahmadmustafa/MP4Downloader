@@ -4,8 +4,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 # MP4Downloader User Interface
-Its a compete User Interface(UI) for the app like downloaders mp4 or status downloaders.
-This app provides a complete solution and complete architecture built in swift native.Now you can use the storyboards design made in UIKit in your app.
+Its a compete User Interface(UI) for the app like downloaders mp4 or status downloaders.This app plays an important role for beginners to learn basics of UI designs.This app provides a complete solution and complete architecture built in swift native.Now you can use the storyboards design made in UIKit in your app.
 
 ![Screen Recording 2022-12-06 at 11 36 24 PM333](https://user-images.githubusercontent.com/25474407/206580743-3ee45b29-ebb3-4af7-98ff-295cdc351aa1.gif)
 # MP4Downloader
