@@ -26,7 +26,6 @@ We have screenshots of UI here are all:
 
 Here is a Video Link:https://user-images.githubusercontent.com/25474407/205994405-417bae7a-1185-4df5-adf0-9411a0974d3d.mov
 
-fantastic ios swift code!
-
+fantastic ios swift code!(Swift 5 fully compatible app)
 
 
